@@ -130,7 +130,7 @@ The [`Stage_1_EDA_STIGMA.ipynb`](command:_github.copilot.openRelativePath?%5B%22
 
 # ⚙️ Stage 2: Data Preprocessing of the STIGMA Project
 
-This is the second stage of the STIGMA project, focusing on data preprocessing of the STIGMA dataset. The main goal of this stage is to clean and transform the raw data to make it suitable for data analysis and modeling. 🧹🔄
+This is the second stage of the STIGMA project, focusing on data preprocessing of the STIGMA dataset. The main goal of this stage is to clean and transform the raw data to make it suitable for data analysis and modeling.
 
 The [`Stage_2_Preprocessing_STIGMA.ipynb`](command:_github.copilot.openRelativePath?%5B%22Stage_2_Preprocessing_STIGMA.ipynb%22%5D "Stage_2_Preprocessing_STIGMA.ipynb") notebook contains the preprocessing steps, where we handle missing values, outliers, and categorical variables. This stage is crucial for improving the quality of the data and ensuring that the dataset is a correct and useful representation of the problem to be modeled. 📊
 
@@ -307,10 +307,10 @@ Assuming, however, that half of those who consider alternative opportunities fol
 Assuming a per-person training cost of $257, the projected waste of training funds prior to the implementation of the model amounted to $1.2 million.
 **We were able to reduce the total cost to approximately $690K after implementing the model, representing a substantial discount of $531,990.**
 
-## ✅ Business Recommendation
+## Business Recommendation
 <br>
 <p align = "center"> 
-    <img src="./assets/img/recom.jpg" width="1000">
+    <img src="FinPro/image/recom.jpg" width="1000">
 </p>
 <br>
 
@@ -320,7 +320,7 @@ The primary aim of this recruitment emphasis is to enhance the likelihood of can
 
 <br>
 <p align = "center"> 
-    <img src="./assets/img/recom2.jpg" width="1000">
+    <img src="FinPro/image/recom2.jpg" width="1000">
 </p>
 <br>
 
@@ -338,7 +338,7 @@ We also advise employers to have candidates sign employment contracts after rec
 
 <br>
 <p align = "center"> 
-    <img src="./assets/img/recom 21.jpg" width="1000">
+    <img src="FinPro/image/recom 21.jpg" width="1000">
 </p>
 <br>
 
@@ -353,10 +353,5 @@ We would like to express our deepest appreciation to Rakamin Academy for providi
 Special thanks to our mentor, Mr. Ridho Aryo Pratama, for his continuous guidance, patience, and support. His insights and wisdom have been instrumental in the successful completion of this project.
 
 Finally, we would like to thank everyone who was involved in this project and those who provided their support and encouragement throughout our journey.
-
-<br>
-<p align="center">
-<img src="https://media1.giphy.com/media/3ohs7JG6cq7EWesFcQ/giphy.gif?cid=ecf05e47v1a2kre6ziee4vjvkc67vxhrwh8ho4089wc0aqli&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="800">
-</p>
 
 🎓 This Final Project is a Rakamin Academy's program.
