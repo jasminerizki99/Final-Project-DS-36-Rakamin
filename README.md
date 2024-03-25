@@ -112,12 +112,12 @@ The [`Stage_1_EDA_STIGMA.ipynb`](command:_github.copilot.openRelativePath?%5B%22
 <br>
 
 <p align = "center"> 
-    <img src="FinPro/image/EDA.png" width="1000">
+    <img src="image/EDA.png" width="1000">
 </p>
 <br>
 
 <p align = "center"> 
-    <img src="FinPro/image/EDA 2.jpg" width="1000">
+    <img src="image/EDA 2.jpg" width="1000">
 </p>
 
 <br>
@@ -139,19 +139,19 @@ The [`Stage_2_Preprocessing_STIGMA.ipynb`](command:_github.copilot.openRelativeP
 
 **Key steps in this stage include:**
 
-## 1. **Missing Values Handling** 🕵️‍♀️<br>
+## 1. **Missing Values Handling** <br>
 The imputation method is used to populate the missing values; the median frequency of each feature with missing values is utilized to impute values to those features. The efficacy of this median frequency filling method in enhancing our machine learning classification model was validated through a series of iterative experiments involving different imputing techniques.
 
-## 2. **Feature Transformation** 🔄<br>
+## 2. **Feature Transformation** <br>
 In order to enhance the future performance of the machine learning model and account for the large number of unique values among the categorical features in this dataset, a feature transformation is implemented on the feature values to make them more general. Indeed, in order to package the information rather than drastically reduce it, we have conducted research on this transformation (generalizing) feature across multiple articles.
 
-## 3. **Feature Selection** 🎯<br>
+## 3. **Feature Selection** <br>
 Using the chi-square test, we examine the correlation between the target and the categorical features (strings) at hand. Once we have determined which features are correlated with the target via the features, we eliminate those that are less correlated with the target.
 
-## 4. **Feature Encoding** 🏷️<br>
+## 4. **Feature Encoding** <br>
 We encode all of our categorical features (strings) using the label encoding method, given that our features are ordinal data and the majority of machine learning algorithms perform better with numerical data.
 
-## 5. **Handle Imbalance Data** ⚖️<br>
+## 5. **Handle Imbalance Data** <br>
 Before handling imbalanced data, the dataset was divided into two subsets: test (30%) and train (70%) sets.
 The imbalance data class consists of 14,381 candidates, or 75.1% of the total, who are not seeking a job change, as opposed to 4,777 candidates, or 24.9%, who are seeking a job change. SMOTE is employed to rectify this disparity by oversampling the minority class.
 <br>
@@ -275,7 +275,7 @@ The improved recall of our GradientBoosting Model as a result of hyperparameter 
 Based on the GradientBoosting model Feature Importance:
 
 <p align = "center"> 
-    <img src="FinPro/image/featimp.png" width="1000">
+    <img src="image/featimp.png" width="1000">
 </p>
 <br>
 
@@ -286,7 +286,7 @@ The top 3 importance feature is :
 
 ## 📝 Business Impact Simulation  
 <p align = "center"> 
-    <img src="FinPro/image/bisnis.jpg" width="1000">
+    <img src="image/bisnis.jpg" width="1000">
 </p>
 <br>
 
@@ -299,7 +299,7 @@ Assuming, however, that half of those who consider alternative opportunities fol
 
 <br>
 <p align = "center"> 
-    <img src="./assets/img/bisnis.jpg" width="1000">
+    <img src="image/bisnis.jpg" width="1000">
 </p>
 <br>
 
@@ -310,7 +310,7 @@ Assuming a per-person training cost of $257, the projected waste of training fun
 ## Business Recommendation
 <br>
 <p align = "center"> 
-    <img src="FinPro/image/recom.jpg" width="1000">
+    <img src="image/recom.jpg" width="1000">
 </p>
 <br>
 
@@ -320,7 +320,7 @@ The primary aim of this recruitment emphasis is to enhance the likelihood of can
 
 <br>
 <p align = "center"> 
-    <img src="FinPro/image/recom2.jpg" width="1000">
+    <img src="image/recom2.jpg" width="1000">
 </p>
 <br>
 
@@ -338,7 +338,7 @@ We also advise employers to have candidates sign employment contracts after rec
 
 <br>
 <p align = "center"> 
-    <img src="FinPro/image/recom 21.jpg" width="1000">
+    <img src="image/recom 21.jpg" width="1000">
 </p>
 <br>
 
